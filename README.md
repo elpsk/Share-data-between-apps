@@ -8,5 +8,7 @@ Video preview: http://www.youtube.com/watch?feature=player_embedded&v=PcU5FIthmp
 ![B Screenshot](https://raw.github.com/elpsk/Share-data-between-apps/master/ios-appdue.png "B")
 
 
-Read complete tutorial here: http://www.albertopasca.it/whiletrue/2012/04/objective-c-share-classes-objects-apps/
+Read complete tutorial here: 
+http://www.albertopasca.it/whiletrue/  
+http://www.albertopasca.it/whiletrue/2012/04/objective-c-share-classes-objects-apps/
 
